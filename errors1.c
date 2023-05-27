@@ -43,7 +43,7 @@ void print_error(info_t *in, char *est)
 }
 /**
  * print_d - print doc
- * @in: str
+ * @input: str
  * @fd: file
  * Return: rt
  */
